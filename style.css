@@ -1,0 +1,34 @@
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  #clear {
+    background-color: red;
+    color: white;
+  }
+  
+  #play {
+    background-color: green;
+    color: white;
+  }
+  
+  #stop {
+    background-color: orange;
+    color: white;
+  }
+  
+  #draw {
+    background-color: blue;
+    color: white;
+  }
+  
+  #circle {
+    background-color: purple;
+    color: white;
+  }
+  
